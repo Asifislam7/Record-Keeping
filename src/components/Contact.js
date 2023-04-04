@@ -6,6 +6,7 @@ function Contact() {
   <Link to={'insta'}> <h1>Contact via Instagram</h1></Link>
   <Link to={'mail'}> <h2>Contact via mail</h2></Link> 
   <h1>This is the contact page</h1>
+  <h2>Again checking through vs code</h2>
 {/* we are  learning nested routes means from the same page we are providing links to different pages
 Such kind of activites are being used in very big projects*/}
 {/* ye nested ho gya yha se to ki link to that we havemade isgoing to the app.js router decleartion where have delc
